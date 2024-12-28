@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Bb]uild/
+[Bb]uild[Cc]ache/
+Temp/
+obj/
+*.csproj
+*.sln
+*.userprefs
+Exe/
+*.dll
+*.dylib
+*.so
